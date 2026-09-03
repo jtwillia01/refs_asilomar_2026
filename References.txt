@@ -1,2 +1,12 @@
 References
 
+1.  Brenden, C. K., Williams, J. T., Rivas, D., Forro, C. & Choi, S. Spatiotemporal instrumentation of in vitro tissues: Toward understanding human disease. Cell Biomaterials 100576 (2026) doi:10.1016/j.celbio.2026.100576.
+2.  Chamorro‐Garcia, A. et al. Electrochemical DNA‐Based Biosensors for In Vivo Quantification of a Therapeutic Protein. Small Structures 7, e70539 (2026).
+3.  Nandhakumar, P. et al. Rapid and Continuous Simultaneous Monitoring of Interleukin-6 and Lactate Using a Bioelectronic Sensor Platform: toward Early Sepsis Prediction. Anal. Chem. 97, 18273–18281 (2025).
+4.  Zargartalebi, H. et al. Active-reset protein sensors enable continuous in vivo monitoring of inflammation. Science 386, 1146–1153 (2024).
+5.  Arroyo-Currás, N. Aptamers Can Be Effective Affinity Receptors for Biosensing. ECS Sens. Plus 3, 030001 (2024).
+6.  Verrinder, E., Gerson, J., Leung, K., Kippin, T. E. & Plaxco, K. W. Dual-Frequency, Ratiometric Approaches to EAB Sensor Interrogation Support the Calibration-Free Measurement of Specific Molecules In Vivo. ACS Sens. 9, 3205–3211 (2024).
+7.  Yang, X. et al. Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids. Nat Biotechnol https://doi.org/10.1038/s41587-023-02081-3 (2024) doi:10.1038/s41587-023-02081-3.
+8.  Downs, A. M. et al. Improved calibration of electrochemical aptamer-based sensors. Sci Rep 12, 5535 (2022).
+9.  Das, J. et al. Reagentless biomolecular analysis using a molecular pendulum. Nat. Chem. 13, 428–434 (2021).
+10.  Arroyo-Currás, N., Dauphin-Ducharme, P., Scida, K. & Chávez, J. L. From the beaker to the body: translational challenges for electrochemical, aptamer-based sensors. Anal. Methods 12, 1288–1310 (2020).
